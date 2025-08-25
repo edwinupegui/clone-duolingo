@@ -12,6 +12,9 @@ export default function ButtonsPage() {
       <Button variant="danger-outline">Danger Outline</Button>
       <Button variant="super">Super</Button>
       <Button variant="super-outline">Super Outline</Button>
+      <Button variant="ghost">Ghost</Button>
+      <Button variant="sidebar">Sidebar</Button>
+      <Button variant="sidebar-outline">Sidebar Outline</Button>
     </div>
   );
 }
